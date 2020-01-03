@@ -14,13 +14,12 @@
  *    either three cards or the number of cards left in the deck, whichever is fewer.
  * 
  */
-namespace GoFishGame
+namespace GoFish
 {
   using System;
   using System.Collections.Generic;
   using System.Threading;
-  using Classes.Card;
-  using Classes.Deck;
+  using Classes;
 
   class Program
   {

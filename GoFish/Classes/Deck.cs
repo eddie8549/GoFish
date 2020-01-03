@@ -1,8 +1,7 @@
-﻿namespace GoFishGame.Classes.Deck
+﻿namespace GoFish.Classes
 {
   using System;
   using System.Collections.Generic;
-  using Card;
 
   class Deck
   {

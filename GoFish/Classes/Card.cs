@@ -1,7 +1,5 @@
-﻿namespace GoFishGame.Classes.Card
+﻿namespace GoFish.Classes
 {
-  using System;
-
   class Card
   {
 
